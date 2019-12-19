@@ -16,7 +16,7 @@
     "dotenv": "^2.0.0",
     "express-jwt": "^5.1.0",
     "jsonwebtoken": "^7.2.1",
-    "mongoose": "^4.7.2",
+    "mongoose": "^5.7.5",
     "morgan": "^1.7.0",
     "server": "^1.0.21",
     "vue": "^2.6.10",
